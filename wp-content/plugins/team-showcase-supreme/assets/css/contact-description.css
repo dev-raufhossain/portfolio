@@ -1,0 +1,320 @@
+.wpm-custom-fields-01,
+.wpm-custom-fields-02,
+.wpm-custom-fields-03,
+.wpm-custom-fields-04,
+.wpm-custom-fields-05,
+.wpm-custom-fields-06,
+.wpm-custom-fields-07,
+.wpm-custom-fields-08,
+.wpm-custom-fields-09,
+.wpm-custom-fields-10,
+.wpm-custom-fields-11,
+.wpm-custom-fields-12,
+.wpm-custom-fields-13,
+.wpm-custom-fields-14,
+.wpm-custom-fields-15,
+.wpm-custom-fields-16,
+.wpm-custom-fields-17,
+.wpm-custom-fields-18,
+.wpm-custom-fields-19,
+.wpm-custom-fields-20,
+.wpm-custom-fields-21,
+.wpm-custom-fields-22,
+.wpm-custom-fields-24,
+.wpm-custom-fields-25,
+.wpm-custom-fields-28,
+.wpm-custom-fields-29,
+.wpm-custom-fields-30,
+.wpm-custom-fields-31-preview,
+.wpm-custom-fields-35,
+.wpm-custom-fields-36,
+.wpm-custom-fields-37 {
+  float: left;
+  width: 100%;
+  margin-top: 0px; 
+  display: block;
+}
+.wpm-custom-fields-list-01,
+.wpm-custom-fields-list-02,
+.wpm-custom-fields-list-03,
+.wpm-custom-fields-list-04,
+.wpm-custom-fields-list-05,
+.wpm-custom-fields-list-06,
+.wpm-custom-fields-list-07,
+.wpm-custom-fields-list-08,
+.wpm-custom-fields-list-09,
+.wpm-custom-fields-list-10,
+.wpm-custom-fields-list-11,
+.wpm-custom-fields-list-12,
+.wpm-custom-fields-list-13,
+.wpm-custom-fields-list-14,
+.wpm-custom-fields-list-15,
+.wpm-custom-fields-list-16,
+.wpm-custom-fields-list-17,
+.wpm-custom-fields-list-18,
+.wpm-custom-fields-list-19,
+.wpm-custom-fields-list-20,
+.wpm-custom-fields-list-21,
+.wpm-custom-fields-list-22,
+.wpm-custom-fields-list-24,
+.wpm-custom-fields-list-25,
+.wpm-custom-fields-list-28,
+.wpm-custom-fields-list-29,
+.wpm-custom-fields-list-30,
+.wpm-custom-fields-list-31-preview,
+.wpm-custom-fields-list-35,
+.wpm-custom-fields-list-36,
+.wpm-custom-fields-list-37 {
+  font-size: 14px;
+  text-align: center;
+  font-family: 'Amaranth';
+  line-height: 20px;
+  min-height: 20px;
+  float: left;
+  width: 100%;
+  -moz-transition-duration: 0.4s;
+  -o-transition-duration: 0.4s;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  text-transform: none;
+}
+.wpm-custom-fields-list-17 {
+  transition-duration: 0s;
+}
+.wpm-custom-fields-list-12,
+.wpm-custom-fields-list-15,
+.wpm-custom-fields-list-16,
+.wpm-custom-fields-list-24,
+.wpm-custom-fields-list-25 {
+  text-align: left;
+}
+.wpm-custom-fields-list-label-01,
+.wpm-custom-fields-list-label-03,
+.wpm-custom-fields-list-label-30,
+.wpm-custom-fields-list-label-31-preview,
+.wpm-custom-fields-list-label-35,
+.wpm-custom-fields-list-label-36,
+.wpm-custom-fields-list-label-37 {
+  color: rgb(0, 148, 79);
+  display: inline-block;
+}
+.wpm-custom-fields-list-content-01,
+.wpm-custom-fields-list-content-03,
+.wpm-custom-fields-list-content-30,
+.wpm-custom-fields-list-content-31-preview,
+.wpm-custom-fields-list-content-35,
+.wpm-custom-fields-list-content-36,
+.wpm-custom-fields-list-content-37{
+  color: rgb(0, 0, 0);
+  font-weight: 100;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.wpm_6310_team_style_01:hover .wpm-custom-fields-list-label-01,
+.wpm_6310_team_style_03:hover .wpm-custom-fields-list-label-03,
+.wpm_6310_team_style_08:hover .wpm-custom-fields-list-label-08,
+.wpm_6310_team_style_10:hover .wpm-custom-fields-list-label-10,
+.wpm_6310_team_style_13:hover .wpm-custom-fields-list-label-13,
+.wpm_6310_team_style_14:hover .wpm-custom-fields-list-label-14,
+.wpm_6310_team_style_16:hover .wpm-custom-fields-list-label-16,
+.wpm_6310_team_style_19:hover .wpm-custom-fields-list-label-19,
+.wpm_6310_team_style_20:hover .wpm-custom-fields-list-content-20,
+.wpm_6310_team_style_22:hover .wpm-custom-fields-list-label-22,
+.wpm_6310_team_style_31_preview:hover .wpm-custom-fields-list-label-31-preview,
+.wpm_6310_team_style_35:hover .wpm-custom-fields-list-label-35,
+.wpm_6310_team_style_36:hover .wpm-custom-fields-list-label-36, 
+.wpm_6310_team_style_37:hover .wpm-custom-fields-list-label-37 {
+  color: rgb(0, 0, 0);
+}
+.wpm_6310_team_style_01:hover .wpm-custom-fields-list-content-01,
+.wpm_6310_team_style_03:hover .wpm-custom-fields-list-content-03,
+.wpm_6310_team_style_10:hover .wpm-custom-fields-list-content-10,
+.wpm_6310_team_style_13:hover .wpm-custom-fields-list-content-13,
+.wpm_6310_team_style_14:hover .wpm-custom-fields-list-content-14,
+.wpm_6310_team_style_16:hover .wpm-custom-fields-list-content-16,
+.wpm_6310_team_style_19:hover .wpm-custom-fields-list-content-19,
+.wpm_6310_team_style_31_preview:hover .wpm-custom-fields-list-content-31-preview,
+.wpm_6310_team_style_35:hover .wpm-custom-fields-list-content-35,
+.wpm_6310_team_style_36:hover .wpm-custom-fields-list-content-36,
+.wpm_6310_team_style_37:hover .wpm-custom-fields-list-content-37 {
+  color: rgb(0, 148, 79);
+}
+.wpm-custom-fields-02,
+.wpm-custom-fields-05,
+.wpm-custom-fields-06,
+.wpm-custom-fields-08,
+.wpm-custom-fields-11,
+.wpm-custom-fields-12,
+.wpm-custom-fields-15,
+.wpm-custom-fields-28,
+.wpm-custom-fields-29 {
+  color: rgb(255, 255, 255);
+}
+.wpm-custom-fields-list-label-02,
+.wpm-custom-fields-list-content-02,
+.wpm-custom-fields-list-label-05,
+.wpm-custom-fields-list-content-05,
+.wpm-custom-fields-list-label-06,
+.wpm-custom-fields-list-content-06,
+.wpm-custom-fields-list-label-08,
+.wpm-custom-fields-list-content-08,
+.wpm-custom-fields-list-label-09,
+.wpm-custom-fields-list-content-09,
+.wpm-custom-fields-list-label-10,
+.wpm-custom-fields-list-content-10,
+.wpm-custom-fields-list-label-11,
+.wpm-custom-fields-list-content-11,
+.wpm-custom-fields-list-label-12,
+.wpm-custom-fields-list-content-12,
+.wpm-custom-fields-list-label-13,
+.wpm-custom-fields-list-content-13,
+.wpm-custom-fields-list-label-14,
+.wpm-custom-fields-list-content-14,
+.wpm-custom-fields-list-label-15,
+.wpm-custom-fields-list-content-15,
+.wpm-custom-fields-list-label-16,
+.wpm-custom-fields-list-content-16,
+.wpm-custom-fields-list-label-17,
+.wpm-custom-fields-list-content-17,
+.wpm-custom-fields-list-label-18,
+.wpm-custom-fields-list-content-18,
+.wpm-custom-fields-list-label-19,
+.wpm-custom-fields-list-content-19,
+.wpm-custom-fields-list-label-20,
+.wpm-custom-fields-list-content-20,
+.wpm-custom-fields-list-label-21,
+.wpm-custom-fields-list-content-21,
+.wpm-custom-fields-list-label-22,
+.wpm-custom-fields-list-content-22,
+.wpm-custom-fields-list-label-24,
+.wpm-custom-fields-list-content-24,
+.wpm-custom-fields-list-label-25,
+.wpm-custom-fields-list-content-25,
+.wpm-custom-fields-list-label-28,
+.wpm-custom-fields-list-content-28,
+.wpm-custom-fields-list-label-29,
+.wpm-custom-fields-list-content-29,
+.wpm-custom-fields-list-label-30,
+.wpm-custom-fields-list-content-30,
+.wpm-custom-fields-list-label-31-preview,
+.wpm-custom-fields-list-content-31-preview {
+  display: inline-block;
+}
+.wpm-custom-fields-list-content-08{
+   color: #000;
+}
+.wpm-custom-fields-list-label-08,
+.wpm_6310_team_style_08:hover .wpm-custom-fields-list-content-08,
+.wpm_6310_team_style_20:hover .wpm-custom-fields-list-label-20,
+.wpm_6310_team_style_30:hover .wpm-custom-fields-list-label-30 {
+  color: rgba(244, 54, 98, 1);
+}
+.wpm_6310_team_style_09:hover .wpm-custom-fields-list-label-09,
+.wpm_6310_team_style_18:hover .wpm-custom-fields-list-label-18,
+.wpm_6310_team_style_21:hover .wpm-custom-fields-list-label-21,
+.wpm_6310_team_style_29:hover .wpm-custom-fields-list-label-29 {
+  color: rgb(236, 230, 149);
+}
+.wpm-custom-fields-list-label-09,
+.wpm_6310_team_style_09:hover .wpm-custom-fields-list-content-09 {
+  color: rgb(200, 200, 200);
+}
+.wpm_6310_team_style_18:hover .wpm-custom-fields-list-content-18,
+.wpm_6310_team_style_29:hover .wpm-custom-fields-list-content-29 {
+  color: whitesmoke;
+}
+
+/* Description field */
+.wpm_6310_team_style_01_description,
+.wpm_6310_team_style_02_description,
+.wpm_6310_team_style_05_description,
+.wpm_6310_team_style_06_description,
+.wpm_6310_team_style_11_description,
+.wpm_6310_team_style_12_description,
+.wpm_6310_team_style_13_description,
+.wpm_6310_team_style_14_description,
+.wpm_6310_team_style_17_description,
+.wpm_6310_team_style_18_description,
+.wpm_6310_team_style_19_description,
+.wpm_6310_team_style_20_description,
+.wpm_6310_team_style_21_description,
+.wpm_6310_team_style_22_description,
+.wpm_6310_team_style_25_description,
+.wpm_6310_team_style_28_description,
+.wpm_6310_team_style_29_description,
+.wpm_6310_team_style_30_description,
+.wpm_6310_team_style_31_description_preview,
+.wpm_6310_team_style_35_description,
+.wpm_6310_team_style_36_description,
+.wpm_6310_team_style_37_description  {
+  float: left;
+  width: 100%;
+  display: block;
+  font-size: 14px !important;
+  line-height: 18px;
+  color: rgb(0, 0, 0);
+  font-family: 'Amaranth';
+  font-weight: 100;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+.wpm_6310_team_style_13_description,
+.wpm_6310_team_style_18_description,
+.wpm_6310_team_style_19_description,
+.wpm_6310_team_style_21_description,
+.wpm_6310_team_style_28_description,
+.wpm_6310_team_style_29_description,
+.wpm_6310_team_style_30_description {
+   padding: 0 10px !important;
+   width: calc(100% - 20px)
+}
+.wpm_6310_team_style_12_description,
+.wpm_6310_team_style_25_description {
+  margin-bottom: 10px;
+  text-align: left;
+}
+.wpm_6310_team_style_25_description {
+  margin-bottom: 0;
+}
+.wpm_6310_team_style_02_description,
+.wpm_6310_team_style_05_description,
+.wpm_6310_team_style_06_description,
+.wpm_6310_team_style_11_description,
+.wpm_6310_team_style_12_description,
+.wpm_6310_team_style_21_description,
+.wpm_6310_team_style_28_description {
+  color: rgb(216, 216, 216);
+}
+.wpm_6310_team_style_01:hover .wpm_6310_team_style_01_description,
+.wpm_6310_team_style_03:hover .wpm_6310_team_style_03_description,
+.wpm_6310_team_style_10:hover .wpm_6310_team_style_10_description,
+.wpm_6310_team_style_13:hover .wpm_6310_team_style_13_description,
+.wpm_6310_team_style_14:hover .wpm_6310_team_style_14_description,
+.wpm_6310_team_style_16:hover .wpm_6310_team_style_16_description,
+.wpm_6310_team_style_19:hover .wpm_6310_team_style_19_description,
+.wpm_6310_team_style_22:hover .wpm_6310_team_style_22_description,
+.wpm_6310_team_style_31_preview:hover .wpm_6310_team_style_31_description_preview,
+.wpm_6310_team_style_35:hover .wpm_6310_team_style_35_description,
+.wpm_6310_team_style_36:hover .wpm_6310_team_style_36_description,
+.wpm_6310_team_style_37:hover .wpm_6310_team_style_37_description  {
+  color: indianred;
+}
+.wpm_6310_team_style_08:hover .wpm_6310_team_style_08_description {
+  color: rgb(0, 0, 0);
+}
+.wpm_6310_team_style_09:hover .wpm_6310_team_style_09_description {
+  color: rgb(236, 230, 149);
+}
+.wpm_6310_team_style_18:hover .wpm_6310_team_style_18_description,
+.wpm_6310_team_style_21:hover .wpm_6310_team_style_21_description,
+.wpm_6310_team_style_28:hover .wpm_6310_team_style_28_description,
+.wpm_6310_team_style_29:hover .wpm_6310_team_style_29_description {
+  color: white;
+  transition-duration: 0.3s !important;
+}
+.wpm_6310_team_style_20:hover .wpm_6310_team_style_20_description,
+.wpm_6310_team_style_30:hover .wpm_6310_team_style_30_description {
+  color: #8b1d8d;
+}
